@@ -130,5 +130,6 @@ dmypy.json
 
 # Project specific
 InputScope/*
+BackupFiles/*
 Outputs/*
 ScreenContent/*
